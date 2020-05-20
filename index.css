@@ -1,0 +1,21 @@
+body 
+	{
+	  background-color:#D2CFCF;	
+	  text-align:center;
+	  font-size: 14pt;
+	}
+	h1
+	{
+		text-align:center;
+		color:red;
+		font-size:90px;
+	}
+	 img
+	{
+		height:600px; width:400px;
+		float:left;
+	}
+	ul
+	{
+		list-style-type:none;
+	}
